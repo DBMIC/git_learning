@@ -1,1 +1,3 @@
 This is to test the git functionality. I will commit this soon.
+
+This edit is being performed inside of feroz branch
